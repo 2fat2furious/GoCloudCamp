@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES>
+      <root url="file://$USER_HOME$/OneDrive/Рабочий стол/javafx-sdk-18.0.1/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/OneDrive/Рабочий стол/javafx-sdk-18.0.1/bin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/OneDrive/Рабочий стол/javafx-sdk-18.0.1/bin" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Рабочий стол/javafx-sdk-18.0.1/bin" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/OneDrive/Рабочий стол/javafx-sdk-18.0.1/bin" recursive="false" type="SOURCES" />
+  </library>
+</component>
